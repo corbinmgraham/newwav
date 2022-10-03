@@ -1,0 +1,9 @@
+c:\users\corbi\documents\visual studio 2015\Projects\newwav\newwav\bin\Debug\newwav.exe.config
+c:\users\corbi\documents\visual studio 2015\Projects\newwav\newwav\bin\Debug\newwav.exe
+c:\users\corbi\documents\visual studio 2015\Projects\newwav\newwav\bin\Debug\newwav.pdb
+c:\users\corbi\documents\visual studio 2015\Projects\newwav\newwav\obj\Debug\newwav.csprojResolveAssemblyReference.cache
+c:\users\corbi\documents\visual studio 2015\Projects\newwav\newwav\obj\Debug\newwav.Form1.resources
+c:\users\corbi\documents\visual studio 2015\Projects\newwav\newwav\obj\Debug\newwav.Properties.Resources.resources
+c:\users\corbi\documents\visual studio 2015\Projects\newwav\newwav\obj\Debug\newwav.csproj.GenerateResource.Cache
+c:\users\corbi\documents\visual studio 2015\Projects\newwav\newwav\obj\Debug\newwav.exe
+c:\users\corbi\documents\visual studio 2015\Projects\newwav\newwav\obj\Debug\newwav.pdb
